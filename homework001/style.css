@@ -1,0 +1,53 @@
+body {
+    /*m0 + Tab */
+    background-color: rgb(225, 240, 166);
+   margin: 0;
+}
+
+.menu {
+   /*tac + Tab */
+   text-align: center;
+   margin-top: 26px
+}
+
+
+
+.menu-link  {
+   color: rgb(198, 41, 20);
+   /* tdn + Tab */
+   font-size: 55;
+   /* twb = Tab */
+   text-transform: uppecase;
+
+   /* fwb = Tab*/
+   font-weight: bold;
+}
+
+.link {   
+   color: rgb(21, 15, 15);
+   font-size: 20;
+   font-weight: bold;
+}
+
+.text {
+   color: rgb(20, 17, 17);
+   font-size: 19;
+   font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
